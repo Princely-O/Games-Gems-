@@ -4,7 +4,7 @@
 ***(1) THE CURRY OF LIFE***
 -------------------
 
-* 2D First person shooting type game
+* 2D one player ballistics type game
 * Created using Python's Pygame library
 * Sprite class is inherited by the player and other sprite classes
 * Implements the Game class
