@@ -15,10 +15,10 @@
 
 ***(2) RAPIDFIRE6***
 --------------------
-* *Laser defender is a modern 2D clone of Space Invaders. In particular, it takes from space
+ *Laser defender is a modern 2D clone of Space Invaders. In particular, it takes from space
 invader the movement and fire mechanic, but omits the destructible covers. The player,
 represented by a spaceship, will be able to move within the play space using the left and right
-arrow keys, while shooting projectiles upward in the playspace.* *
+arrow keys, while shooting projectiles upward in the playspace.* 
 
 *Enemies will fly in formation*
 * Enemies will have an animation while in formation
