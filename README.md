@@ -1,7 +1,7 @@
 **GAMES**
 =========
 
-***(1) THE CURRY OF LIFE***
+***THE CURRY OF LIFE***
 -------------------
 
 * 2D one player ballistics type game
@@ -13,7 +13,7 @@
 
 * *10 second timer, 60 spicy bowls of curry, unlimited chopsticks...*
 
-***(2) RAPIDFIRE6***
+***RAPIDFIRE6***
 --------------------
  *Laser defender is a modern 2D clone of Space Invaders. In particular, it takes from space
 invader the movement and fire mechanic, but omits the destructible covers. The player,
