@@ -1,18 +1,6 @@
 **GAMES**
 =========
 
-***THE CURRY OF LIFE***
--------------------
-
-* 2D one player ballistics type game
-* Created using Python's Pygame library
-* Sprite class is inherited by the player and other sprite classes
-* Implements the Game class
-  * Game class makes the logic for restarting the game much more refined
-* Uses sprites class to create groups of sprites and checks for sprite collisions
-
-* *10 second timer, 60 spicy bowls of curry, unlimited chopsticks...*
-
 ***RAPIDFIRE6***
 --------------------
  *Laser defender is a modern 2D clone of Space Invaders. In particular, it goes crazy. The player,
@@ -49,3 +37,15 @@ through space
 * Background music goes crazy
 * Lose scene is a bit scare from the feedback I recieved
 * Actually, the win scene is also terrifying i dont really know why I made them like that
+
+***THE CURRY OF LIFE***
+-------------------
+
+* 2D one player ballistics type game
+* Created using Python's Pygame library
+* Sprite class is inherited by the player and other sprite classes
+* Implements the Game class
+  * Game class makes the logic for restarting the game much more refined
+* Uses sprites class to create groups of sprites and checks for sprite collisions
+
+* *10 second timer, 60 spicy bowls of curry, unlimited chopsticks...*
