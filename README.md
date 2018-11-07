@@ -1,6 +1,15 @@
 **GAMES**
 =========
 
+***Kyuubi***
+* coming soon
+* 2.5D game
+
+***Sleepy Shooter***
+
+* 3D game
+* ...
+
 ***RAPIDFIRE6***
 --------------------
  *RapidFire6 is the 6th and only edition of the RapidFire series. Its is a modern 2D clone of Space Invaders. In particular, it goes crazy. The player,
