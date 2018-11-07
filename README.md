@@ -15,10 +15,9 @@
 
 ***RAPIDFIRE6***
 --------------------
- *Laser defender is a modern 2D clone of Space Invaders. In particular, it takes from space
-invader the movement and fire mechanic, but omits the destructible covers. The player,
-represented by a spaceship, will be able to move within the play space using the left and right
-arrow keys, while shooting projectiles upward in the playspace.* 
+ *Laser defender is a modern 2D clone of Space Invaders. In particular, it goes crazy. The player,
+represented by a spaceship, will be able to steer within the screen space using the left and right
+arrow keys, while shooting lasers in the playspace.* 
 
 *Enemies will fly in formation*
 * Enemies will have an animation while in formation
@@ -36,4 +35,14 @@ through space
 * Background music will also play during the game which the player will have the choice of selecting
  
 * Used Shuriken Particle System to simulate combustions and fuel thrusters
+* Created with Unity
+
+*I got a bunch of positive feedback about the 'trippiness' of the space scene..Play to see for yourself: <>*
+
+***Ninja Ark***
+--------------------
+ *Ninja Ark is my first 2D game in Unity. The purpose of this game was to test the waters in Unity. It's kind of like an anime version of ...* 
+
+*Enemies will fly in formation*
+* Enemies will have an animation while in formation
 * Created with Unity
