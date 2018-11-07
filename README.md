@@ -3,13 +3,14 @@
 
 ***Kyuubi***
 --------------------
-* coming soon
 * 2.5D game
+* coming soon
+
 
 ***Sleepy Shooter***
 --------------------
 * 3D game
-* ...
+* coming soon
 
 ***RAPIDFIRE6***
 --------------------
