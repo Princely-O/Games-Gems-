@@ -3,7 +3,7 @@
 
 ***RAPIDFIRE6***
 --------------------
- *Laser defender is a modern 2D clone of Space Invaders. In particular, it goes crazy. The player,
+ *RapidFire6 is the 6th and only edition of the RapidFire series. Its is a modern 2D clone of Space Invaders. In particular, it goes crazy. The player,
 represented by a spaceship, will be able to steer within the screen space using the left and right
 arrow keys, while shooting lasers in the playspace.* 
 
