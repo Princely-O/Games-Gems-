@@ -35,7 +35,7 @@ through space
 * Once hit, the characters take damage until they uh well die.
 * Yes, neji dies. (if you know you know)
 * Background music goes crazy
-* Lose scene is a bit scare from the feedback I recieved
+* Lose scene is a bit scary from the feedback I recieved
 * Actually, the win scene is also terrifying i dont really know why I made them like that
 
 ***THE CURRY OF LIFE***
