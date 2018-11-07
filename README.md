@@ -41,8 +41,11 @@ through space
 
 ***Ninja Ark***
 --------------------
- *Ninja Ark is my first 2D game in Unity. The purpose of this game was to test the waters in Unity. It's kind of like an anime version of ...* 
+ *Ninja Ark is my first 2D game in Unity. The purpose of this game was to test the waters in Unity. It's kind of like an anime version of Arkanoid.* 
 
-*Enemies will fly in formation*
-* Enemies will have an animation while in formation
-* Created with Unity
+* Using a rasengan (spiralling blue ball), the objective is to destroy character sprites
+* Once hit, the characters take damage until they uh well die.
+* Yes, neji dies. (if you know you know)
+* Background music goes crazy
+* Lose scene is a bit scare from the feedback I recieved
+* Actually, the win scene is also terrifying i dont really know why I made them like that
