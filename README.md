@@ -36,7 +36,7 @@ through space
 * Used Shuriken Particle System to simulate combustions and fuel thrusters
 * Created with Unity
 
-*I got a bunch of positive feedback about the 'trippiness' of the space scene..Play to see for yourself: <>*
+*I got a bunch of positive feedback about the 'trippiness' of the space scene..Play to see for yourself: <http://www.sharemygame.com/share/a66e15e3-f806-4d33-a0b3-996fe9db08f4>*
 
 ***Ninja Ark***
 --------------------
@@ -48,6 +48,7 @@ through space
 * Background music goes crazy
 * Lose scene is a bit scary from the feedback I recieved
 * Actually, the win scene is also terrifying i dont really know why I made them like that
+* Play: <http://www.sharemygame.com/share/a7c7b57e-d934-4403-8602-46dc651997a8>
 
 ***THE CURRY OF LIFE***
 -------------------
