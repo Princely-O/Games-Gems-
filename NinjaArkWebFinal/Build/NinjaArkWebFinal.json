@@ -1,0 +1,13 @@
+{
+"companyName": "HarryGames",
+"productName": "NinjaArk",
+"dataUrl": "NinjaArkWebFinal.data.unityweb",
+"asmCodeUrl": "NinjaArkWebFinal.asm.code.unityweb",
+"asmMemoryUrl": "NinjaArkWebFinal.asm.memory.unityweb",
+"asmFrameworkUrl": "NinjaArkWebFinal.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
