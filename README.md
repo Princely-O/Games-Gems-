@@ -10,7 +10,9 @@
 ***Sleepy Shooter***
 --------------------
 * 3D game
-* coming soon
+* I used AI agent tracking to keep the monsters chasing you. There's actually no escape.
+* Tired kid DESTROYS monsters with facts. You basically run around killing toy monsters while barely conscious. 
+* Improved camera script. Now the player can aim at anything in the scene, but the gun's line of fire remains aimed at the monsters. The game is simply impossible otherwise.
 
 ***RAPIDFIRE6***
 --------------------
