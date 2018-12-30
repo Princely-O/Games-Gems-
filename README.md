@@ -20,6 +20,7 @@
 represented by a spaceship, will be able to steer within the screen space using the left and right
 arrow keys, while shooting lasers in the playspace.* 
 
+* Used Shuriken Particle System to simulate combustions and fuel thrusters
 *Enemies will fly in formation*
 * Enemies will have an animation while in formation
 * Enemies will be spawned outside the playspace and fly into their formation positions
@@ -39,7 +40,7 @@ through space
 * Used Shuriken Particle System to simulate combustions and fuel thrusters
 * Created with Unity
 
-*I got a bunch of positive feedback about the 'trippiness' of the space scene..Play to see for yourself: <http://www.sharemygame.com/share/a66e15e3-f806-4d33-a0b3-996fe9db08f4>*
+*I got a bunch of positive feedback about the 'trippiness' of the space scene..Play to see for yourself: <https://www.sharemygame.com/share/5c154e8c-cfad-48a8-b578-d453e8d5d260>*
 
 ***Ninja Ark***
 --------------------
