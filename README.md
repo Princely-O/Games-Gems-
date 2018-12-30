@@ -52,7 +52,7 @@ through space
 * Background music goes crazy
 * Lose scene is a bit scary from the feedback I recieved
 * Actually, the win scene is also terrifying i dont really know why I made them like that
-* Play: <http://www.sharemygame.com/share/a7c7b57e-d934-4403-8602-46dc651997a8>
+* Play: <https://www.sharemygame.com/share/83206b87-a417-432f-bfc1-a81d393b5887>
 
 ***THE CURRY OF LIFE***
 -------------------
