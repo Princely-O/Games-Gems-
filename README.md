@@ -1,10 +1,14 @@
 **GAMES**
 =========
 
+***Pacer***
+* coming soon
+
 ***Kyuubi***
 --------------------
-* 2.5D game
-* coming soon
+* Spawned 2.5D caharacters using Frame and Rigged 2D animation techniques
+* Mobile compatible
+* Stored in-game data in PlayerPrefs
 
 
 ***Sleepy Shooter***
