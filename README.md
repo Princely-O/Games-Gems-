@@ -4,7 +4,7 @@
 ***Pacer***
 * coming soon
 
-***Kyuubi***
+***Glitchy***
 --------------------
 * Spawned 2.5D caharacters using Frame and Rigged 2D animation techniques
 * Mobile compatible
