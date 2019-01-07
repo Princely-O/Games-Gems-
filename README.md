@@ -6,7 +6,7 @@
 
 ***Glitchy***
 --------------------
-* Spawned 2.5D caharacters using Frame and Rigged 2D animation techniques
+* Spawned 2.5D characters using Frame and Rigged 2D animation techniques
 * Mobile compatible
 * Stored in-game data in PlayerPrefs
 
