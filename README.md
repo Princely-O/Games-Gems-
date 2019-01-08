@@ -6,9 +6,10 @@
 
 ***Glitchy***
 --------------------
-* Spawned characters using Frame and Rigged  animation.
+* Spawned characters using Frame and Rigged animation.
 * Mobile compatible
 * Engaging splash screen animation.
+* Tower Defense meets anime meets...lizards? Yes.
 
 
 
