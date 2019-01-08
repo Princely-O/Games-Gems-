@@ -6,9 +6,10 @@
 
 ***Glitchy***
 --------------------
-* Spawned 2.5D characters using Frame and Rigged 2D animation techniques
+* Spawned characters using Frame and Rigged  animation.
 * Mobile compatible
-* Stored in-game data in PlayerPrefs
+* Engaging splash screen animation.
+
 
 
 ***Sleepy Shooter***
