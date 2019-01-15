@@ -4,7 +4,7 @@
 ***Pace.***
 * coming soon
 * This is a 3D first person game with smooth player tracking. Oh, and it takes place in space.
-* So far, Creaeted icy terrain with fog, snow, and other particle system effects.
+* So far, I've created icy terrain with fog, snow, and other particle system effects.
 
 ***Glitchy***
 --------------------
