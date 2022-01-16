@@ -7,14 +7,29 @@
 * This is a 3D first person game with smooth player tracking. Oh, and it takes place in space.
 * So far, I've created icy terrain with fog, snow, and other particle system effects.
 
+***Tesseract: Teleportation in Unity***
+
+
+***Ninja Ark***
+--------------------
+ *Ninja Ark is a 2D game in Unity. The purpose of this game was to test the waters in Unity. It's kind of like an anime version of Arkanoid.* 
+
+* Using a rasengan (animated spiralling blue ball), the objective is to destroy character sprites
+* Once hit, the characters take damage until they... well die.
+* Yes, he dies. (if you know you know)
+* Background music is phenomenal
+* 'Lose' scene is a bit scary from the feedback I recieved
+* Actually, the win scene is also terrifying I dont really know why I made them like that
+
+***3D Graph animations***
+
+
 ***Glitchy***
 --------------------
 * Spawned characters using Frame and Rigged animation.
 * Mobile compatible
 * Engaging splash screen animation.
 * Tower Defense meets anime meets...lizards? Yes.
-
-
 
 ***Sleepy Shooter***
 --------------------
@@ -49,19 +64,7 @@ through space
 * Used Shuriken Particle System to simulate combustions and fuel thrusters
 * Created with Unity
 
-*I got a bunch of positive feedback about the 'trippiness' of the space scene..Play to see for yourself: <https://www.sharemygame.com/share/5c154e8c-cfad-48a8-b578-d453e8d5d260>*
-
-***Ninja Ark***
---------------------
- *Ninja Ark is my first 2D game in Unity. The purpose of this game was to test the waters in Unity. It's kind of like an anime version of Arkanoid.* 
-
-* Using a rasengan (spiralling blue ball), the objective is to destroy character sprites
-* Once hit, the characters take damage until they uh well die.
-* Yes, neji dies. (if you know you know)
-* Background music goes crazy
-* Lose scene is a bit scary from the feedback I recieved
-* Actually, the win scene is also terrifying i dont really know why I made them like that
-* Play: <https://www.sharemygame.com/share/83206b87-a417-432f-bfc1-a81d393b5887>
+*I got a bunch of positive feedback about the 'trippiness' of the space scene..
 
 ***THE CURRY OF LIFE***
 -------------------
