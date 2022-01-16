@@ -7,7 +7,7 @@
 * This is a 3D first person game with smooth player tracking. Oh, and it takes place in space.
 * So far, I've created icy terrain with fog, snow, and other particle system effects.
 
-***Tesseract |||: Teleportation in Unity***
+***Tesseract: Teleportation in Unity***
 
 
 ***Ninja Ark***
