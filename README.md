@@ -8,6 +8,7 @@
 * So far, I've created icy terrain with fog, snow, and other particle system effects.
 
 ***Tesseract: Teleportation in Unity***
+--------------------
 * Finally, teleportation.
 * Humanity has made strides in science and stuff, but frankly, nothing as epic as teleportation.
 * I added the scripts for how I accomplished the camera control and teleportation for reference.
@@ -25,6 +26,7 @@
 * Actually, the win scene is also terrifying I dont really know why I made them like that
 
 ***3D Graph animations***
+--------------------
 * Strictly speaking, I did this for a class. But I definitely didn't need the particle system.
 * It was extra credit, but it turned out pretty nice so...here: https://youtu.be/9_XFwoZZCk0
 * Unity Hub should tell you what version of Unity you need to run/edit it.
