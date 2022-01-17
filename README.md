@@ -60,7 +60,7 @@ arrow keys, while shooting lasers in the playspace.*
 
 ***THE CURRY OF LIFE***
 -------------------
-* *10 second timer, 60 spicy bowls of curry, unlimited chopsticks...*
+*10 second timer, 60 spicy bowls of curry, unlimited chopsticks...*
 
 * 2D one player ballistics type game.
 * Created using Python's Pygame library.
