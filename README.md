@@ -18,7 +18,7 @@
 --------------------
  *Ninja Ark is a 2D game in Unity. The purpose of this game was to test the waters in Unity. It's kind of like an anime version of Arkanoid.* 
 
-* Using a rasengan (animated spiralling blue ball), the objective is to destroy character sprites
+* Using a *rasengan* (animated spiralling blue ball), the objective is to destroy character sprites
 * Once hit, the characters take damage until they... well die.
 * Yes, he dies. (if you know you know)
 * Background music is phenomenal
