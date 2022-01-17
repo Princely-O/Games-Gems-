@@ -23,21 +23,6 @@
 
 ***3D Graph animations***
 
-
-***Glitchy***
---------------------
-* Spawned characters using Frame and Rigged animation.
-* Mobile compatible
-* Engaging splash screen animation.
-* Tower Defense meets anime meets...lizards? Yes.
-
-***Sleepy Shooter***
---------------------
-* 3D game
-* I used AI agent tracking to keep the monsters chasing you. There's actually no escape.
-* Tired kid DESTROYS monsters with facts. You basically run around killing toy monsters while barely conscious. 
-* Improved camera script. Now the player can aim at anything in the scene, but the gun's line of fire remains aimed at the monsters. The game is simply impossible otherwise.
-
 ***RAPIDFIRE6***
 --------------------
  *RapidFire6 is the 6th and only edition of the RapidFire series. Its is a modern 2D clone of Space Invaders. In particular, it goes crazy. The player,
